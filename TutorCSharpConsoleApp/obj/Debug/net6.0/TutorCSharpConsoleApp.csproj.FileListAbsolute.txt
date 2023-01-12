@@ -1,0 +1,15 @@
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\bin\Debug\net6.0\TutorCSharpConsoleApp.exe
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\bin\Debug\net6.0\TutorCSharpConsoleApp.deps.json
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\bin\Debug\net6.0\TutorCSharpConsoleApp.runtimeconfig.json
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\bin\Debug\net6.0\TutorCSharpConsoleApp.dll
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\bin\Debug\net6.0\TutorCSharpConsoleApp.pdb
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.csproj.AssemblyReference.cache
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.AssemblyInfoInputs.cache
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.AssemblyInfo.cs
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.csproj.CoreCompileInputs.cache
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.dll
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\refint\TutorCSharpConsoleApp.dll
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.pdb
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\TutorCSharpConsoleApp.genruntimeconfig.cache
+D:\Code_id\CSharp\TutorialCSharp\TutorCSharpConsoleApp\obj\Debug\net6.0\ref\TutorCSharpConsoleApp.dll
